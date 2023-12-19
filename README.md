@@ -4,13 +4,18 @@
   <img src="https://app.snippethub.io/_next/image?url=%2Fimg%2Fsh-logo.png&w=96&q=75" />
 </p>
 
-Create and use instructed AI Lenses, shape your code, brainstorm ideas, write tests and chat with top AI models like:
+### Create and use instructed AI Lenses, shape your code, brainstorm ideas, write tests and chat with top AI models like:
 
 -  GPT-4
+-  Mixtral 8x7B (`NEW!`)
 -  GPT-3
--  Google PaLM2.
+-  Google PaLM2 (`Coming Soon`)
    <br>
    <br>
+
+### SnippetHub Lens AI is free to use for all users, with Mixtral 8x7B AI model.
+
+#### `Mixtral 8x7B is a powerful AI model that surpasses GPT-3 in many benchmarks, especially for coding tasks.`
 
 ![SnippetHub X Explorer Screenshot](https://res.cloudinary.com/djm0dkhs2/image/upload/v1701200192/Untitled_design_2_f51f7x.gif)
 <br>
@@ -20,19 +25,19 @@ Create and use instructed AI Lenses, shape your code, brainstorm ideas, write te
 
 -  [Features](#features)
 -  [Available Commands](#available-commands)
--  [Changelog](#changelog)
-<br>
-<br>
-<br>
+   <br>
+   <br>
+   <br>
 
 # SnippetHub Lens AI Features
 
+![Mixtral 8x7B](https://res.cloudinary.com/djm0dkhs2/image/upload/v1702545288/mistralai_logo_isgmdg.png)
 ![Google PaLM2](https://res.cloudinary.com/djm0dkhs2/image/upload/v1701198673/google_palm_logo_1_lu57bl.png)
-![GPT](https://res.cloudinary.com/djm0dkhs2/image/upload/v1701198752/gpt4_isvgp9.svg)
+![GPT](https://res.cloudinary.com/djm0dkhs2/image/upload/v1701205045/gpt4_xhkpxr.png)
 
-### GPT-3, GPT-4 and Google PaLM2
+### GPT-4, Mixtral 8x7B, GPT-3 and Google PaLM2
 
--  Use GPT-3, GPT-4 and Google PaLM2 AI models with rich feature-set to shape your code, brainstorm ideas, write tests and more.
+-  Use GPT-4, Mixtral 8x7B, GPT-3 and Google PaLM2 AI models with rich feature-set to shape your code, brainstorm ideas, write tests and more.
 
 ### AI Lens
 
@@ -45,7 +50,7 @@ Create and use instructed AI Lenses, shape your code, brainstorm ideas, write te
 
 ### AI Chat
 
--  Chat with AI models like GPT-3, GPT-4 and Google PaLM2
+-  Chat with AI models like GPT-4, Mixtral 7x8B, GPT-3 and Google PaLM2
 -  Reduce expensive monthly subscription costs of AI models by using AI credits to chat with AI models
 
 ### Code Context AI Chat
@@ -67,12 +72,12 @@ Create and use instructed AI Lenses, shape your code, brainstorm ideas, write te
 
 ### `Coming Soon:` AI Test Storm
 
-- Generate and run advanced tests covering different scenarios for your code
-- Unleash the power of top AI models like GPT-3, GPT-4 and Google PaLM2 to generate tests for your code
+-  Generate and run advanced tests covering different scenarios for your code
+-  Unleash the power of top AI models like GPT-3, GPT-4 and Google PaLM2 to generate tests for your code
    <br>
    <br>
    <br>
-   
+
 # Available Commands
 
 -  **SnippetHub: Set Selected Code AI Chat context**: Use the command `snippethub.setSelectedCodeAsAIChatContext` to set selected code as context for AI chat.
@@ -85,25 +90,3 @@ To execute these commands, open the command palette in Visual Studio Code (`Ctrl
 
 <br>
 <br>
-
-# Changelog
-
-### Version 1.0.0
-
--  **Initial Release**: First version of SnippetHub X, introducing core features and functionalities.
-
-### Version 1.0.1
-
--  **Minor Bug Fixes**: Minor bug fixes and improvements.
-
-### Version 1.0.2
-
--  **Hotfix to match extension kind**
-
-### Version 1.0.3
-
--  **Authentication flow improvements**: Improvements to the refresh token flow to make user experience smoother.
-
-### Version 2.0.0
-
--  **SnippetHub Lens AI**: Introducing SnippetHub Lens AI, a new way to use AI models like GPT-3, GPT-4 and Google PaLM2 to shape your code, brainstorm ideas, write tests and more.
