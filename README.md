@@ -1,22 +1,37 @@
 # SnippetHub Lens AI
 
-<p align="center">
+<p align="start">
   <img src="https://app.snippethub.io/_next/image?url=%2Fimg%2Fsh-logo.png&w=96&q=75" />
 </p>
 
-### Create and use instructed AI Lenses, shape your code, brainstorm ideas, write tests and chat with top AI models like:
+### Generate test cases and unit tests with AI Test Storm, use instructed AI Lenses, shape your code and chat with top AI models like:
 
--  GPT-4
--  Mixtral 8x7B (`NEW!`)
--  GPT-3
--  Google PaLM2 (`Coming Soon`)
-   <br>
+-  GPT-4 Turbo
+-  GPT-3 Turbo
+-  Mixtral 8x7B
    <br>
 
-### SnippetHub Lens AI is free to use for all users, with Mixtral 8x7B AI model.
+#### SnippetHub Lens AI is free to use for all users, with Mixtral 8x7B AI model.
+<br/>
 
-#### `Mixtral 8x7B is a powerful AI model that surpasses GPT-3 in many benchmarks, especially for coding tasks.`
+### Open AI Test Storm and generate test cases:
+<br/>
 
+![SnippetHub Lens AI - AI Test Storm](https://res.cloudinary.com/djm0dkhs2/image/upload/v1705254580/AI_Test_Storm_-_Test_Cases_cceh23.gif)
+<br>
+<br>
+
+### Generated test cases:
+![Generated test cases](https://res.cloudinary.com/djm0dkhs2/image/upload/v1705254709/AI_Test_Storm_-_Generated_Test_Cases_ulvg2j.png)
+<br>
+<br>
+
+### Generated unit tests for test cases:
+![Generated unit tests](https://res.cloudinary.com/djm0dkhs2/image/upload/v1705254899/AI_Test_Storm_-_Generated_Unit_Tests_pvu8p2.png)
+<br>
+<br>
+
+### Use instructed AI Lenses:
 ![SnippetHub X Explorer Screenshot](https://res.cloudinary.com/djm0dkhs2/image/upload/v1701200192/Untitled_design_2_f51f7x.gif)
 <br>
 <br>
@@ -35,9 +50,20 @@
 ![Google PaLM2](https://res.cloudinary.com/djm0dkhs2/image/upload/v1701198673/google_palm_logo_1_lu57bl.png)
 ![GPT](https://res.cloudinary.com/djm0dkhs2/image/upload/v1701205045/gpt4_xhkpxr.png)
 
-### GPT-4, Mixtral 8x7B, GPT-3 and Google PaLM2
+### GPT-4 Turbo, GPT-3 Turbo and Mixtral 8x7B
 
--  Use GPT-4, Mixtral 8x7B, GPT-3 and Google PaLM2 AI models with rich feature-set to shape your code, brainstorm ideas, write tests and more.
+-  Use GPT-4 Turbo, Mixtral 8x7B and GPT-3 Turbo AI models with rich feature-set to shape your code, brainstorm ideas, write tests and more.
+
+### AI Test Storm
+
+-  Generate test cases and unit tests using `AI Test Storm` for the most popular programming languages
+-  Open the `AI Test Storm` webview by clicking on the AI Test Storm code lens associated with a specific method or function
+-  Select a specific framework, such as Jest or Mocha, for JavaScript test generation
+-  Choose a specific unit test pattern like AAA (Arrange, Act, Assert)
+-  Select a file containing existing unit tests to serve as a reference for new test cases
+-  Generate a specified number of positive, negative, and edge test cases
+-  Create unit tests for the generated test cases
+-  Add the generated unit tests to an existing test file or create a new one
 
 ### AI Lens
 
@@ -69,12 +95,6 @@
 ### Use personal and workspace-scoped snippets
 
 -  All your snippets are available as code completions, no matter where you are.
-
-### `Coming Soon:` AI Test Storm
-
--  Generate and run advanced tests covering different scenarios for your code
--  Unleash the power of top AI models like GPT-3, GPT-4 and Google PaLM2 to generate tests for your code
-   <br>
    <br>
    <br>
 
